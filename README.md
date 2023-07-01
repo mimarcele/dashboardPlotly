@@ -1,3 +1,3 @@
-# dashboardPloty
+# dashboardPlotly
 
-Dashboard de estudo sobre conceitos de dash Ploty, Html, Css e Python
+Dashboard de estudo sobre conceitos de dash plotly, Html, Css e Python
